@@ -4,5 +4,3 @@ kotlin
 scala
 ruby
 javascript
-rust
-python
